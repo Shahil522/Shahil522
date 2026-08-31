@@ -206,13 +206,6 @@ An automation testing project focused on validating important end-to-end e-comme
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahil522&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
----
 
 # 🐍 Contribution Snake
 
