@@ -1,7 +1,7 @@
 Shahil Mansuri | Quality Assurance Engineer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4b1fa6,100:7c3aed&height=220&section=header&text=SHAHIL%20MANSURI&fontSize=46&fontColor=ffffff&desc=Quality%20Assurance%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=58&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4b1fa6,100:7c3aed&height=220&section=header&text=SHAHIL%20MANSURI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quality%20Assurance%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=55&descSize=17" width="100%" />
 </p>
 
 <p align="center">
