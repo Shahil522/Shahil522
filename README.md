@@ -1,334 +1,271 @@
-Shahil Mansuri | Quality Assurance Engineer
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4b1fa6,100:7c3aed&height=220&section=header&text=SHAHIL%20MANSURI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quality%20Assurance%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=55&descSize=17" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Quality+Assurance+Engineer;Manual+Testing+%7C+Automation+Testing;Finding+Defects.+Improving+Quality." alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Manual%20Testing%20%7C%20Automation%20Testing&fontSize=28&fontColor=A78BFA&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/QA-Manual%20%26%20Automation-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Ranchi%2C%20India-312E81?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/QA-Manual%20%26%20Automation-7C3AED?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Location-Ranchi%2C%20India-312E81?style=for-the-badge" />
+
 </p>
 
 <p align="center">
-  <a href="mailto:sm6720781@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shahil-mansuri"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Shahil522"><img src="https://img.shields.io/badge/GitHub-Shahil522-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+  <a href="mailto:sm6720781@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Shahil522">
+    <img src="https://img.shields.io/badge/GitHub-Shahil522-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahil522&label=Profile%20Views&color=7c3aed&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/Shahil522?label=Followers&style=flat-square&color=7c3aed"/>
+
+  <img src="https://img.shields.io/badge/Contributions-722-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+
+  <img src="https://komarev.com/ghpvc/?username=Shahil522&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+
 </p>
 
-About Me
+---
 
-I am an entry-level Quality Assurance Engineer with hands-on experience in manual and automation testing of web applications and web services. I enjoy understanding how software works, identifying defects, validating requirements, and helping teams deliver reliable releases.
+# 👨‍💻 About Me
 
-My QA approach combines structured test case and scenario design with functional, regression, integration, exploratory, smoke, sanity, usability, cross-browser, and mobile testing. I am comfortable working with Selenium WebDriver, Playwright, Python, PyTest, TestNG, Postman, REST APIs, SQL, MySQL, Jira, Git/GitHub, Jenkins, STLC, SDLC, and Agile/Scrum practices.
+I am an **entry-level Quality Assurance Engineer** and a recent **B.Tech Computer Science & Engineering graduate** with a strong interest in software quality and testing.
 
-Open To
+I have hands-on knowledge of **Manual Testing and Automation Testing**, including test case design, functional testing, regression testing, bug reporting, API testing, database testing, and web application testing.
 
-Entry-Level QA Engineer roles
+I enjoy understanding how software works, identifying defects, validating requirements, and helping deliver reliable, high-quality applications.
 
-Manual Tester opportunities
+### 🎯 Currently Looking For
 
-Automation Tester opportunities
+- 🧪 Entry-Level QA Engineer roles
+- 🔍 Manual Tester opportunities
+- 🤖 Automation Tester opportunities
+- 💼 Software Testing Internships
+- 🌐 Web, API, Database & Mobile Testing roles
 
-Software Testing Internships
+---
 
-Web, API, Database, and Mobile Testing roles
+# 🛠️ Tech Stack
 
-Tech Stack
-
-Testing & QA
+### 🧪 Testing & QA
 
 <p>
-<img src="https://skillicons.dev/icons?i=selenium,postman"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
 </p>
 
-Languages & Web
+### 💻 Programming & Web
 
-<p><img src="https://skillicons.dev/icons?i=python,js,html,css"/></p>
+<p>
 
-Database & Tooling
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
-<p><img src="https://skillicons.dev/icons?i=mysql,git,github,jenkins,vscode"/></p>
+</p>
 
-QA Expertise
+### 🗄️ Database & Tools
 
-Domain
+<p>
 
-Proficiency
+<img src="https://skillicons.dev/icons?i=mysql,git,github,jenkins,vscode" />
 
-Details
+</p>
 
-Manual Testing
+---
 
-Hands-on
+# 🧪 QA Expertise
 
-Functional, regression, integration, smoke, sanity, usability, exploratory
+| Domain | Skills |
+|---|---|
+| 🔍 Manual Testing | Functional, Regression, Smoke, Sanity, Exploratory Testing |
+| 📝 Test Design | Test Cases, Test Scenarios, Positive & Negative Testing |
+| 🤖 Automation | Selenium WebDriver, Playwright, PyTest, TestNG |
+| 🔗 API Testing | Postman, REST APIs, HTTP Methods, Status Codes |
+| 🗄️ Database Testing | SQL, MySQL, Data Validation |
+| 🐞 Defect Management | Bug Reporting, Tracking, Retesting |
+| 🌐 Cross Platform Testing | Cross-Browser & Mobile Testing |
+| 🔄 SDLC Process | STLC, SDLC, Agile & Scrum |
+| 🚀 CI/CD | Jenkins & Git/GitHub Fundamentals |
 
-Test Design
+---
 
-Hands-on
+# 🚀 Featured QA Projects
 
-Test cases, scenarios, positive/negative testing, business rule validation
-
-Automation Testing
-
-Hands-on
-
-Selenium WebDriver, Playwright, Python, PyTest, TestNG, POM
-
-API Testing
-
-Hands-on
-
-Postman, REST APIs, HTTP methods, status codes, API validation
-
-Database Testing
-
-Hands-on
-
-SQL, MySQL, and data validation
-
-Defect Management
-
-Hands-on
-
-Identification, reporting, tracking, defect life cycle, retesting
-
-Cross-Platform Testing
-
-Hands-on
-
-Cross-browser, mobile app, and iOS testing
-
-Delivery Process
-
-Working Knowledge
-
-STLC, SDLC, Agile, Scrum, Git/GitHub, CI/CD fundamentals
-
-Featured QA Projects
-
-<details>
-<summary><b>AI-Based Food Quality Detection System</b> — Click to expand</summary>
-
-<br>
+## 🥗 AI-Based Food Quality Detection System
 
 A QA-focused project involving structured validation of an AI-based food quality detection system.
 
-Area
+### 🔹 Key Highlights
 
-Details
+- Designed and executed **30+ test scenarios**
+- Performed Functional Testing
+- Performed Regression Testing
+- Performed Usability Testing
+- Validated business logic and prediction functionality
+- Tested standard and edge-case scenarios
+- Created a structured defect reporting and retesting workflow
 
-Stack
+### 🛠️ Skills Used
 
-QA Testing, Bug Tracking, Test Design
+`Manual Testing` • `Test Cases` • `Bug Reporting` • `Regression Testing` • `Functional Testing`
 
-Scale
+---
 
-30+ test scenarios
+## 🛒 SauceDemo E-Commerce QA Automation Framework
 
-Testing
+An automation testing project focused on validating important end-to-end e-commerce functionality.
 
-Functional, Regression, Usability
+### 🔹 Test Coverage
 
-Quality Focus
+- 🔐 Login Functionality
+- 📦 Product Listing
+- 🛒 Add to Cart
+- 🗑️ Remove from Cart
+- 💳 Checkout Process
+- ✅ Order Confirmation
 
-Prediction accuracy, business logic, edge cases
+### 🛠️ Technologies
 
-Designed and executed a test plan and test strategy across 30+ test scenarios.
+`Python` • `Selenium WebDriver` • `PyTest`
 
-Validated prediction accuracy and business logic through functional, regression, and usability testing.
+### 🔹 Key Highlights
 
-Built a structured defect life-cycle process for identifying, documenting, tracking, and retesting defects.
+- Built automated test scripts for important user flows
+- Designed positive and negative test scenarios
+- Used stable locators for element identification
+- Used Explicit Waits for dynamic elements
+- Added assertions for application validation
+- Validated complete end-to-end workflows
 
-Validated data and results across 20+ edge-case and standard input scenarios.
+---
 
-</details>
+# 💼 Experience
 
-<details>
-<summary><b>SauceDemo E-Commerce QA Automation Framework</b> — Click to expand</summary>
+## 🧑‍💻 Web Development & QA Intern
 
-<br>
+### AIYCSM, Dimapur  
+📅 **Jul 2025 – Aug 2025**
 
-An automation framework built to validate critical end-to-end e-commerce flows.
+### Responsibilities
 
-Area
+- 🐞 Identified and documented **25+ defects**
+- 🔍 Performed structured Functional Testing
+- 🔄 Retested fixes before releases
+- 🌐 Validated website functionality
+- 🚀 Supported testing across **6 deployment cycles**
+- 🤝 Coordinated with the development team
+- 💻 Managed version control using Git/GitHub
+- 📦 Worked across **50+ commits**
 
-Details
+### Skills
 
-Stack
+`Functional Testing` • `Bug Tracking` • `Retesting` • `Git` • `GitHub`
 
-Python, Selenium WebDriver, PyTest
+---
 
-Coverage
+# 🏆 Achievements
 
-Login, Product Listing, Cart, Checkout
+| 🏅 Achievement | 📊 Details |
+|---|---|
+| 🎓 Academic Performance | B.Tech CSE with **CGPA 8.6** |
+| 🧪 QA Project Work | Designed **30+ Test Scenarios** |
+| 🐞 Defect Management | Identified **25+ Defects** |
+| 🚀 Release Validation | Supported **6 Deployment Cycles** |
+| 💻 Git Experience | Worked across **50+ Commits** |
+| 🌟 NPTEL | **Elite — Top 5%** |
 
-Reliability
+---
 
-Stable locators and Explicit Waits
+# 📜 Certifications
 
-Validation
+### 🧪 Introduction to Selenium
 
-UI state, cart contents, checkout confirmation
+<img src="https://img.shields.io/badge/Simplilearn-Introduction%20to%20Selenium-7C3AED?style=for-the-badge" />
 
-Built an automated test suite using Python, Selenium WebDriver, and PyTest.
+### ☁️ Cloud Computing & Distributed Systems
 
-Covered login, product listing, cart, and checkout flows end to end.
+<img src="https://img.shields.io/badge/NPTEL-Elite%20Top%205%25-5B21B6?style=for-the-badge" />
 
-Designed positive and negative scenarios for credentials and checkout edge cases.
+### 💻 Web Development Internship
 
-Used explicit waits to handle dynamic page loads.
+<img src="https://img.shields.io/badge/AIYCSM-Web%20Development%20Internship-4F46E5?style=for-the-badge" />
 
-Added assertions for UI state, cart contents, and checkout confirmation.
+---
 
-</details>
-
-Experience
-
-Web Development & QA Intern — AIYCSM, Dimapur
-
-Jul 2025 – Aug 2025
-
-Identified and documented 25+ defects through structured functional testing, bug tracking, and retesting workflows.
-
-Validated website functionality and business behavior across 6 deployment cycles.
-
-Coordinated fixes with the development team before releases.
-
-Managed version control across 50+ commits using Git/GitHub.
-
-Skills: Functional Testing Bug Tracking Retesting Git GitHub
-
-Achievements
-
-Recognition
-
-Details
-
-Academic Performance
-
-B.Tech CSE with CGPA 8.6
-
-QA Project Work
-
-Designed and executed 30+ test scenarios
-
-Defect Management
-
-Identified and documented 25+ defects
-
-Release Validation
-
-Supported validation across 6 deployment cycles
-
-Version Control
-
-Managed 50+ commits
-
-NPTEL Recognition
-
-Elite — Top 5% in Cloud Computing and Distributed Systems
-
-Certifications
-
-Simplilearn SkillUP
-
-<img src="https://img.shields.io/badge/Introduction%20to%20Selenium-2026-7C3AED?style=for-the-badge"/>
-
-NPTEL — IIT Kharagpur
-
-<img src="https://img.shields.io/badge/Cloud%20Computing%20%26%20Distributed%20Systems-Elite%20Top%205%25-5B21B6?style=for-the-badge"/>
-
-AIYCSM
-
-<img src="https://img.shields.io/badge/Web%20Development%20Internship%20Certificate-2025-4F46E5?style=for-the-badge"/>
-
-Coding & Professional Profiles
+# 📊 GitHub Activity
 
 <p align="center">
-<a href="https://github.com/Shahil522"><img src="https://img.shields.io/badge/GitHub-Shahil522-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/shahil-mansuri"><img src="https://img.shields.io/badge/LinkedIn-Shahil%20Mansuri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
-GitHub Analytics
+  <img src="https://img.shields.io/badge/Total%20Contributions-722-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 
-<p align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Shahil522&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahil522&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Shahil522&theme=midnight-purple&hide_border=true"/>
-</p>
 
-GitHub Trophies
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahil522&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" height="170" />
+
+</p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shahil522&theme=discord&no-frame=true&margin-w=10"/>
+
+  <img src="https://streak-stats.demolab.com?user=Shahil522&theme=midnight-purple&hide_border=true" />
+
 </p>
 
-Contribution Activity
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahil522&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahil522&theme=react-dark&hide_border=true&area=true" width="100%" />
+
 </p>
 
-Contribution Snake
+---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Shahil522/Shahil522/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
+# 🎯 Current Focus
 
-Configure the contribution-snake GitHub Action in your profile repository to generate this animation.
-
-Current Focus
-
-learning:
+```yaml
+Learning:
   - Advanced Selenium Automation
   - Playwright
   - API Testing
   - CI/CD for Test Automation
 
-building:
-  - Reliable QA Automation Frameworks
+Building:
+  - QA Automation Frameworks
+  - End-to-End Testing Projects
   - Strong Test Case Libraries
-  - End-to-End Web Testing Projects
 
-exploring:
+Exploring:
   - Mobile Application Testing
   - API Automation
   - Modern QA Practices
 
-open_to:
+Open To:
   - Entry-Level QA Engineer Roles
   - Manual Testing Opportunities
   - Automation Testing Opportunities
-  - Software Testing Internships
-
-Connect
-
-<p align="center">
-<a href="mailto:sm6720781@gmail.com"><img src="https://img.shields.io/badge/Gmail-sm6720781%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shahil-mansuri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Shahil522"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center"><i>"Quality is not an act — it is the confidence built into every release."</i></p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4b1fa6,100:7c3aed&height=120&section=footer" width="100%"/>
-</p>
+  - QA Internships
